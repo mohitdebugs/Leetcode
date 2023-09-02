@@ -1,4 +1,4 @@
-#icnlue <queue>
+#include <queue>
 class MyStack {
 private:
     queue<int> q;
